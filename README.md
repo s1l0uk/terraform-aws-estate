@@ -38,3 +38,5 @@ No modules.
 ## Outputs
 
 No outputs.
+
+For further information on the project consult [http://devsecopz.blogstop.com/]
