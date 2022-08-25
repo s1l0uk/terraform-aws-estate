@@ -1,7 +1,7 @@
 resource "aws_organizations_organization" "root" {
 }
 
-module {
+module "orgs" {
   source                      = "git::https://www.github.com/s1l0uk/terraform-aws-org-structure"
   region                      = var.region
   project_accounts            = var.business_units
